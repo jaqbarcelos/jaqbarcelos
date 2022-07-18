@@ -1,5 +1,12 @@
 ## Hello World 🖖
 
+Dev Front-end
+- 💻Estudante de Análise e Desenvolvimento de Sistemas
+- 📚 Aprendendo HTML, CSS e JS
+- ⚡ No tempo livre gosto de jogar e fazer live na roxinha
+
+##
+
 <div align="center">
   <a href="https://github.com/jaqbarcelos">
   <img height="48%" src="https://github-readme-stats.vercel.app/api?username=jaqbarcelos&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
