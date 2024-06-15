@@ -3,7 +3,6 @@
 Dev Front-end
 - 💻Estudante de Análise e Desenvolvimento de Sistemas
 - 📚 Aprendendo HTML, CSS e JS
-- ⚡ No tempo livre gosto de jogar e fazer lives na Twitch
 
 ##
 
