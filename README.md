@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FE98AE&height=180&text=%F0%9F%8C%B8Hello%20World!%F0%9F%8C%B8&fontSize=45&fontColor=ffffff&animation=twinkling"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=ffff&background=A368FF00&center=true&vCenter=true&multiline=true&width=463&height=100&lines=My++name+is+Jaqueline!;+I'm+a+Front-End+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=FE98AE&background=A368FF00&center=true&vCenter=true&multiline=true&width=463&height=100&lines=My++name+is+Jaqueline!;+I'm+a+Front-End+Developer)](https://git.io/typing-svg)
 
 <img align="right" width="200" src="https://imgur.com/GTq3rs2.png" />
 
@@ -116,17 +116,14 @@
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaqbarcelos&theme=rose&layout=compact&custom_title=Tecnologias&langs_count=9&include_all_commits=true" 
   />
-  
+
+<div aligh-center>
+  <img src="https://raw.githubusercontent.com/jaqbarcelos/jaqbarcelos/output/snake.svg" alt="Snake animation" />
+
 <br/>
 <br/>
 
 ---
-
-<h3> 📈 Gráfico de contribuição </h3>
-<div aligh-center>
-  <img src="https://raw.githubusercontent.com/jaqbarcelos/jaqbarcelos/output/snake.svg" alt="Snake animation" />
-
- 
 <h3> 🔗 Redes Sociais </h3>
 <div>
   <a href="https://www.linkedin.com/in/jaqueline-barcelos-672178277/" target="_blank" ><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="Link do Linkedin"/></a>
