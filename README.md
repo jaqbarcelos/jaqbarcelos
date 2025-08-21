@@ -123,7 +123,7 @@
 ---
 
 <h3> 📈 Gráfico de contribuição </h3>
- <img src="https://raw.githubusercontent.com/jaqbarcelos/jaqbarcelos/output/snake.svg" alt="Snake animation" />
+ <img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
 
  
 <h3> 🔗 Redes Sociais </h3>
