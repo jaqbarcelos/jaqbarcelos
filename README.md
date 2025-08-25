@@ -6,7 +6,7 @@
 
 <h3>👩🏼‍💻 Sobre mim </h3>
 <p>
-  Me chamo Jaqueline Barcelos Costa, tenho 23 anos e sou natural do Espírito Santo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Vila Velha - UVV, onde venho consolidando conhecimentos técnicos e práticos que aplico no dia a dia como Desenvolvedora Front-End, utilizando tecnologias como <strong>HTML, CSS, JavaScript</strong> e <strong>React</strong>.
+  Me chamo Jaqueline Barcelos, tenho 23 anos e sou natural do Espírito Santo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Vila Velha - UVV, onde venho consolidando conhecimentos técnicos e práticos que aplico no dia a dia como Desenvolvedora Front-End, utilizando tecnologias como <strong>HTML, CSS, JavaScript</strong> e <strong>React</strong>.
   <p></p>
   Trabalhar com aquilo que amo, tecnologia e design, é o que me impulsiona todos os dias a aprender, criar e evoluir. Estou sempre em busca de novos desafios, oportunidades de crescimento e projetos que me permitam impactar positivamente a vida das pessoas por meio da inovação digital.
 </p>
