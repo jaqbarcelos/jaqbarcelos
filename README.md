@@ -114,7 +114,7 @@
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaqbarcelos&theme=rose&layout=compact&custom_title=Tecnologias&langs_count=9&include_all_commits=false" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaqbarcelos&theme=rose&layout=compact&custom_title=Tecnologias&langs_count=9&include_all_commits=true" 
   />
 
 <div aligh-center>
