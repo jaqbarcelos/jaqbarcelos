@@ -1,12 +1,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FE98AE&height=180&text=%F0%9F%8C%B8Hello%20World!%F0%9F%8C%B8&fontSize=45&fontColor=ffffff&animation=twinkling"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=FE98AE&background=A368FF00&center=true&vCenter=true&multiline=true&width=463&height=100&lines=My++name+is+Jaqueline!;+I'm+a+Front-End+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=FE98AE&background=A368FF00&center=true&vCenter=true&multiline=true&width=463&height=100&lines=My++name+is+Jaqueline!;+I'm+a+Full-Stack+Developer)](https://git.io/typing-svg)
 
 <img align="right" width="200" src="https://imgur.com/GTq3rs2.png" />
 
 <h3>👩🏼‍💻 Sobre mim </h3>
 <p>
-  Me chamo Jaqueline Barcelos, tenho 23 anos e sou natural do Espírito Santo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Vila Velha - UVV, onde aplico meus conhecimentos em projetos práticos. Minha experiência abrange front-end e back-end, utilizando tecnologias como <strong>HTML, CSS, JavaScript, React, Node.js, Python, C#, SQL</strong> e <strong>AWS</strong>. Atualmente estou me aprofundando na área de dados, estudando análise, manipulação e visualização de informações para transformar dados em insights que apoiem decisões e aprimorem soluções digitais.
+  Me chamo Jaqueline Barcelos, tenho 23 anos e sou natural do Espírito Santo. Estou cursando <strong>Análise e Desenvolvimento de Sistemas na Universidade Vila Velha - UVV</strong>, onde aplico meus conhecimentos em projetos práticos.   
+  <p></p>
+  Minha experiência abrange front-end e back-end, utilizando tecnologias como <strong>HTML, CSS, JavaScript, React, Node.js, Python, C#, SQL</strong> e <strong>AWS</strong>. Atualmente estou me aprofundando na área de dados, estudando análise, manipulação e visualização de informações para transformar dados em insights que apoiem decisões e aprimorem soluções digitais.
   <p></p>
   Trabalhar com tecnologia é o que me impulsiona diariamente a aprender, criar e evoluir. Busco desafios que me permitam aplicar minhas habilidades como desenvolvedora FullStack e em análise de dados, criando soluções digitais inteligentes, eficientes e capazes de impactar positivamente a vida dos usuários por meio da inovação digital.
 </p>
