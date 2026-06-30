@@ -6,7 +6,7 @@
 
 <h3>👩🏼‍💻 Sobre mim </h3>
 <p>
-  Me chamo Jaqueline Barcelos, tenho 23 anos e sou natural do Espírito Santo. Estou cursando <strong>Análise e Desenvolvimento de Sistemas na Universidade Vila Velha - UVV</strong>, onde aplico meus conhecimentos em projetos práticos.   
+  Me chamo Jaqueline Barcelos, tenho 24 anos e sou natural do Espírito Santo. Estou cursando <strong>Análise e Desenvolvimento de Sistemas na Universidade Vila Velha - UVV</strong>, onde aplico meus conhecimentos em projetos práticos.   
   <p></p>
   Minha experiência abrange front-end e back-end, utilizando tecnologias como <strong>HTML, CSS, JavaScript, React, Node.js, Python, C#, SQL</strong> e <strong>AWS</strong>. Atualmente estou me aprofundando na área de dados, estudando análise, manipulação e visualização de informações para transformar dados em insights que apoiem decisões e aprimorem soluções digitais.
   <p></p>
